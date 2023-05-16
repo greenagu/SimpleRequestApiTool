@@ -28,5 +28,6 @@ php Run.php {auth_key} {http method} {uri} {parameter} {header} {curl options}
 
 ## 예제
 
-다음은 예제 사용법입니다:
-
+```
+php Run.php ZGFvdUhvbWV3b3JrOmFkbWluOmF1dGhLZXk= GET https://dict.naver.com/
+```
